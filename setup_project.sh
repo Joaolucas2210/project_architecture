@@ -1,7 +1,6 @@
-#!/bin/bash
 
 # Nome do projeto
-PROJECT_NAME="Projeto_X"
+PROJECT_NAME="Projeto_Example"
 
 # Criando diretórios principais
 mkdir -p $PROJECT_NAME/src
